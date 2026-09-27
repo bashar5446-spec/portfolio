@@ -15,4 +15,4 @@ window.PORTFOLIO_PROJECTS = [
     {src:'assets/crm-appointments.png',label:'Appointments',alt:'n8n appointment booking and reminder workflow'},
     {src:'assets/crm-followup.png',label:'Follow-up',alt:'n8n follow-up and reactivation workflow'}]}
 ];
-window.PORTFOLIO_CONTACT={email:'bashar.5446@gmail.com',phone:'+963997216599',linkedin:'',github:'',whatsapp:''};
+window.PORTFOLIO_CONTACT={email:'bashar.5446@gmail.com',phone:'+963988965818',linkedin:'https://www.linkedin.com/in/basharmohamad/',github:'https://github.com/bashar5446-spec',whatsapp:'https://wa.me/963988965818'};
